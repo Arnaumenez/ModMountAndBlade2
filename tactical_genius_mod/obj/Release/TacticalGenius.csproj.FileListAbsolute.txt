@@ -1,0 +1,5 @@
+C:\Users\arnau\Downloads\TacticalGenius_Final\tactical_genius_mod\obj\Release\TacticalGenius.csproj.AssemblyReference.cache
+C:\Users\arnau\Downloads\TacticalGenius_Final\tactical_genius_mod\obj\Release\TacticalGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnau\Downloads\TacticalGenius_Final\tactical_genius_mod\obj\Release\TacticalGenius.AssemblyInfoInputs.cache
+C:\Users\arnau\Downloads\TacticalGenius_Final\tactical_genius_mod\obj\Release\TacticalGenius.AssemblyInfo.cs
+C:\Users\arnau\Downloads\TacticalGenius_Final\tactical_genius_mod\obj\Release\TacticalGenius.csproj.CoreCompileInputs.cache
